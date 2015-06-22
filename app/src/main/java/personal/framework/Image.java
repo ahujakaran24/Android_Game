@@ -1,4 +1,4 @@
-package personal.androidgame_1;
+package personal.framework;
 
 /**
  * Created by karan on 22/6/15.

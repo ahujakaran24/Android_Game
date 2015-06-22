@@ -1,7 +1,6 @@
-package personal.androidgame_1;
+package personal.framework;
 
 import android.graphics.Paint;
-import android.media.Image;
 
 /**
  * Created by karan on 22/6/15.
